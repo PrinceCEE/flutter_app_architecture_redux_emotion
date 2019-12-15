@@ -13,8 +13,3 @@
 ## Previous Release
 * Build Name: 1.0.0
 * Build Number 1
-
-
-## App Signing Key
-Google Drive
-Projects/emotions.jksA
